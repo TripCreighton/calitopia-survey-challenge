@@ -67,7 +67,7 @@ These are just use cases, not necessarily API endpoints. Your API can have .
 - Performance (Readable code > Optimized code)
 
 # Written Portion Instructions
-Create a brief (one-paragraph, or bulleted list) of what technical steps would be required to deploy this app to production. (This should _not_ include possible new features; assume the provided feature set is complete).
+Create a brief (one-paragraph, or bulleted list) of what technical steps would be required to deploy this app to production.
 
 # Questions / Issues?
 Email me at k@saporo.us and I will respond as soon as I can.
