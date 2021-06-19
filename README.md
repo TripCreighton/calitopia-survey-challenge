@@ -54,7 +54,7 @@ These are just use cases, not necessarily API endpoints. Your API can have .
 
 ## Tips
  - You may choose any persistent storage system, we recommend you use [Firebase](https://firebase.google.com/)
- - Use google if you don't undestand a concept
+ - Feel free to use any search engine of your choice.
 
 #### Example questions you should ask to evaluate your submission (but not implement):
 (This list is not exhaustive)
