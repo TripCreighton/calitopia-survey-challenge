@@ -65,6 +65,7 @@ These are just use cases, not necessarily API endpoints. Your API can have .
 
 ## You will NOT be graded on
 - Performance (Readable code > Optimized code)
+- 3rd party package choice (Use whichever packages you prefer to get the task done)
 
 # Written Portion Instructions
 Create a brief (one-paragraph, or bulleted list) of what technical steps would be required to deploy this app to production.
